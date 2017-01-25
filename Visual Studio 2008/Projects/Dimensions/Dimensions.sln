@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dimensions", "Dimensions\Dimensions.vcproj", "{EAA1E3EC-57AE-4308-81E6-B8BEBFBD5211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA1E3EC-57AE-4308-81E6-B8BEBFBD5211}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAA1E3EC-57AE-4308-81E6-B8BEBFBD5211}.Debug|Win32.Build.0 = Debug|Win32
+		{EAA1E3EC-57AE-4308-81E6-B8BEBFBD5211}.Release|Win32.ActiveCfg = Release|Win32
+		{EAA1E3EC-57AE-4308-81E6-B8BEBFBD5211}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

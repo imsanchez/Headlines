@@ -1,0 +1,63 @@
+// ========================================================================
+//SFX ID's								
+#define SFX_NADE				0x13
+#define SFX_PICKUP				0x17
+#define SFX_CHARACTER			0x18
+#define SFX_MAX					0x3B
+// ========================================================================
+#define D3DXMATRIX_WORLD		0x49B63C
+#define D3DXMATRIX_VIEW			0x49B64F
+#define D3DXMATRIX_PROJECTION	0x49B65F
+#define DeviceGame				0x8795D8
+#define LTClientEXE				0x490560
+#define WorldToScreen			0x49C5D0
+#define S2S						0x479F10
+#define PresentEngine			0x0061D866 // CABR
+#define PresentEngine2			0x570743
+#define Endscene				0x61DCF6
+#define DrawPrimitive			0x76D4A0
+#define IntersectSegment		0x476D27
+#define LTClientDLL				0x377D6FC0
+#define EspName1				0x371231D3
+#define EspName2                0x37123146
+#define GCS						0x3781773C
+#define PlayerByIndex			0x3719DA60
+#define PlayerMgr				0x3781779C
+#define PlayerStatus			0x377F5DD8
+#define ClientInfoMgr			0x377D6D7C
+#define LocalPlyer				0x3719E500
+#define SuperBullets			0x37458426 
+#define NoReload				0x3745DED9
+#define NoRecoil				0x373681C8 
+#define RemoteKill1				0x3745E281 
+#define RemoteKill2				0x3745E282
+#define RemoteKill3				0x3745E601
+#define RemoteKill4				0x3745E602
+#define WeaponRange1			0x3745E159
+#define WeaponRange2			0x3745E4D9
+#define RapidFire				0x3745EC3A
+#define UnlAmmo					0x37454AB7
+#define CameraUpdate			0x3736BE5F
+#define LTCommon				0x378495D8
+#define GetFontHandle			0x37380980
+#define GetConsoleInt			0x373D8410
+#define BuildFont				0x3758FDC0
+#define FillFont				0x37590A70
+#define FontECX					0x37841058
+#define Damage					0x371175A3
+#define DeathDamage				0x376E43E4
+#define AdressJump				0x377C3EDC
+#define AdressActivation		0x377C3C30
+#define AdressBaseMoveAccel		0x377C3DBC
+#define AdressStartAccel		0x377C3DE0
+#define AdressMaxAccel			0x377C3E04
+#define AdressAccelInc			0x377C3E28
+#define AdressWalkVel			0x377C3E4C
+#define AdressFRunVel			0x377C3E70
+#define AdressBRunVel			0x377C3E94
+#define AdressSRunVel			0x377C3EB8
+#define AdressDuckVel			0x377C3F00
+#define AdressGravity			0x377C3A80
+#define AdressFPS				0x377C2948
+#define AdressTracers			0x377CBE4C
+// ========================================================================*/
